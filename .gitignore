@@ -366,3 +366,4 @@ FodyWeavers.xsd
 
 # Build and debug files
 Grocery.App/bin/Debug/
+Grocery.App/obj/Debug/
